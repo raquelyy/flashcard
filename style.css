@@ -55,6 +55,12 @@ footer p {
     backface-visibility: hidden;
 }
 
+.cartao__conteudo p{
+    margin-top: 1rem;
+    padding: 2rem;
+    margin-top: 4rem;
+}
+
 .cartao__conteudo__pergunta p {
     color:var(--text-color);
     font-weight: 500;
@@ -73,6 +79,8 @@ footer p {
 .cartao__conteudo__pergunta,
 .cartao__conteudo__resposta {
     backface-visibility: hidden;
+    position: absolute;
+    
 }
 
 .cartao__conteudo__resposta {

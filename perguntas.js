@@ -22,3 +22,14 @@ criaCartao(
     'Oi em Inglês é HI.'
 )
 
+criaCartao(
+    'Geografia',
+   'Quantos estados tem o Brasil?',
+    'O Brasil tem 26 estados.'
+)
+
+criaCartao(
+    'Geografia',
+   'Qual é a capital do Paraná?',
+    'A capital do Paraná é Curitiba.'
+)
